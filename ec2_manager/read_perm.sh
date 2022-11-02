@@ -1,0 +1,1 @@
+chmod 400 ec2_keypair.pem
